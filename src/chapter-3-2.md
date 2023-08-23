@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) is transforming the field of personal healing by providing new tools and techniques for health and wellness management. This chapter aims to provide an overview of the different types of AI techniques and platforms applicable for personal healing and analysis.
 
 Machine Learning

@@ -1,5 +1,4 @@
 
-
 Before embarking on an AI-enabled personal healing journey, it is important to assess your health needs and available resources. In this chapter, we will explore how to assess your needs and resources for successful integration and adoption of AI technology in your personal healing journey.
 
 Assessing Your Health Needs
