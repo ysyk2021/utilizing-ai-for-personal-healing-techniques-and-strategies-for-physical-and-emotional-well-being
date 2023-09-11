@@ -1,5 +1,4 @@
-Chapter 8: Challenges and Risks of AI Adoption in Personal Healing and How to Overcome Them
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will address the significant challenges and potential risks associated with the adoption of AI in personal healing techniques and strategies. While AI has the potential to revolutionize health and well-being, it is essential to understand and mitigate these challenges to ensure safe and effective implementation.
 

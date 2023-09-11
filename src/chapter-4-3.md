@@ -1,5 +1,4 @@
-Chapter 11: **Boosting Your Rehabilitation and Recovery with AI-Enabled Therapies and Exercises**
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into how artificial intelligence (AI) can play a pivotal role in enhancing your rehabilitation and recovery process. AI-powered therapies and exercises can be valuable tools for promoting physical and emotional well-being, particularly when dealing with injuries, illnesses, or challenging life events.
 

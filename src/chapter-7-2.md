@@ -1,5 +1,4 @@
-Chapter 7: Identifying Key Performance Metrics and Goals for AI-Enabled Healing Improvement and Optimization
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical process of identifying key performance metrics and setting goals for optimizing AI-enabled healing techniques and strategies. Measuring the effectiveness of AI-driven interventions is essential to ensure that they genuinely contribute to an individual's physical and emotional well-being.
 

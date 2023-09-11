@@ -1,5 +1,4 @@
-Chapter 3: Boosting Your Resilience and Empathy with AI-Enabled Mindfulness and Meditation
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how you can harness the power of AI to enhance your resilience and empathy through mindfulness and meditation practices. These techniques, when combined with technology, can offer innovative ways to cultivate emotional well-being and personal growth.
 

@@ -1,5 +1,4 @@
-Chapter 1: Setting Your Health and Wellness Goals for AI Use and Personal Growth
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial process of setting health and wellness goals that align with utilizing AI for personal healing techniques and strategies. Your ability to define clear objectives is fundamental to harnessing the power of AI for improving your physical and emotional well-being.
 

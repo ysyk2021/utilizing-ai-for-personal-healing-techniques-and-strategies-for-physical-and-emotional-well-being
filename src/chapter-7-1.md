@@ -1,5 +1,4 @@
-Chapter 4: Measuring the Effectiveness and Benefits of AI-Enabled Personal Healing for Life Satisfaction
-========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore methods and metrics for measuring the effectiveness and benefits of AI-enabled personal healing techniques and strategies. Understanding how AI impacts your life satisfaction is crucial for optimizing your well-being journey.
 
